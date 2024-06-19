@@ -64,7 +64,7 @@
    - At the bottom of the window, it shows information about the current file, such as line number, encoding, and language mode. It also provides shortcuts to common tasks and displays the state of version control.
 
 ### Screenshot:
-
+![bbl](https://github.com/LailaSamared/se-assignment-5-LailaSamared/assets/133321338/40fa085e-18c3-4623-98e8-f3d124dbbcb2)
 
 ## Command Palette
 
@@ -131,7 +131,7 @@
   - Go to `File > Preferences > Keyboard Shortcuts`.
 
 ### Screenshot:
-
+![bl](https://github.com/LailaSamared/se-assignment-5-LailaSamared/assets/133321338/6e602cf9-4890-4a8a-9d49-7897caf28070)
 
 ## Debugging in VS Code
 
@@ -165,7 +165,7 @@
      ```
 
 ### Screenshot:
-
+![last](https://github.com/LailaSamared/se-assignment-5-LailaSamared/assets/133321338/2eaa4024-0b8b-4b64-8cca-31391784a87e)
 
 ### References:
 - https://code.visualstudio.com/docs
