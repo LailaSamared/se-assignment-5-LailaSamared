@@ -64,7 +64,7 @@
    - At the bottom of the window, it shows information about the current file, such as line number, encoding, and language mode. It also provides shortcuts to common tasks and displays the state of version control.
 
 ### Screenshot:
-*Include a screenshot highlighting the Activity Bar, Side Bar, Editor Group, and Status Bar.*
+
 
 ## Command Palette
 
@@ -131,7 +131,7 @@
   - Go to `File > Preferences > Keyboard Shortcuts`.
 
 ### Screenshot:
-*Include a screenshot of the Settings page showing theme, font size, and keybindings options.*
+
 
 ## Debugging in VS Code
 
